@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ZaharovDigitalStudio(Let's Rock)
-- 🌱 I’m currently learning JS, Vue, MySQL
+- 🔭 I’m currently working on ViraArtStroy
+- 🌱 I’m currently learning JS, ReactJS
 - 👯 I’m looking to collaborate on here
 - 🤔 I’m looking for help with Design
 - 💬 Ask me about ... what first comes to mind looking at my avatar
